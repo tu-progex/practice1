@@ -1,1 +1,1 @@
-A file set for practice in basic usage cp/mv/rm commands with wildcards.
+A file set for practice in basic use of cp/mv/rm commands with wildcards.
